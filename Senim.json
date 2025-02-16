@@ -1,0 +1,9 @@
+{
+  "name": "SeNim",
+  "symbol": "SNM",
+  "decimals": 9,
+  "blockchain": "TON",
+  "address": "EQC0gBZfJuJJZD_H0yAXTKTGBPfDQz_Vq_hMxc5_qapPwrF2"
+  "websites": ["https://github.com/senimsnm"]
+  "description": "SeNim (SNM) — токен на блокчейне TON, предназначенный для AI + DeFi."
+}
